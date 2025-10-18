@@ -8,13 +8,13 @@ The project showcases a highly reliable architecture built on the classic API-La
 
 Architecture Diagram:
 
-![Architecture Diagram](diagram.png)
+![Architecture Diagram](diagram.jpg)
 
 ## Project Success Metrics (Testing Proof)
 
 The core functionality was verified via Postman after successfully resolving critical integration failures.
 
-![Project Success Metrics](Screenshots/1.jog)
+![Project Success Metrics](Screenshots/1.png)
 ![Architecture Diagram](Screenshots/post.png)
 ![Architecture Diagram](Screenshots/get.png)
 ![Architecture Diagram](Screenshots/delete.png)
