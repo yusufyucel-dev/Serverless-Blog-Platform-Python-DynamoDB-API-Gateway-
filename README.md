@@ -14,7 +14,7 @@ Architecture Diagram:
 
 The core functionality was verified via Postman after successfully resolving critical integration failures.
 
-![Project Success Metrics](Screenshots/1.png)
+![Project Success Metrics](Screenshots/1.jog)
 ![Architecture Diagram](Screenshots/post.png)
 ![Architecture Diagram](Screenshots/get.png)
 ![Architecture Diagram](Screenshots/delete.png)
