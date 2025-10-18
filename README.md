@@ -8,7 +8,7 @@ The project showcases a highly reliable architecture built on the classic API-La
 
 Architecture Diagram:
 
-![Architecture Diagram](diagram.jpg)
+![Architecture Diagram](Screenshots/diagram.jpg)
 
 ## Project Success Metrics (Testing Proof)
 
